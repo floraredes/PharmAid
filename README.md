@@ -16,12 +16,6 @@ Welcome to the PharmAid project repository, a Python Dash-based interactive dash
 3. **Future Sales Prediction:** Leverage Monte Carlo simulations to predict future sales trends and potential outcomes.
 
 
-## Project Structure:
-
-- `src/`: Source code for the PharmAid interactive dashboard.
-- `docs/`: Project documentation, user guides, and relevant resources.
-- `data/`: Sample datasets for testing and development.
-
 ## Contact:
 
 For inquiries and collaboration opportunities, feel free to reach out at [floraredess@gmail.com](mailto:floraredess@gmail.com).
